@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "nome": "Maria Silva",
+    "idade": 30,
+    "senha": "senha123"
+  },
+  {
+    "id": 2,
+    "nome": "João Pereira",
+    "idade": 25,
+    "senha": "senha456"
+  },
+  {
+    "id": 3,
+    "nome": "Ana Costa",
+    "idade": 28,
+    "senha": "senha789"
+  },
+  {
+    "id": 4,
+    "nome": "Carlos Oliveira",
+    "idade": 35,
+    "senha": "senha012"
+  }
+]
